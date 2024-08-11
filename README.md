@@ -7,3 +7,5 @@ second number is the same number but "mathematically correct" where the first wo
 ALWAYS pick either the first or always the second number (DO NOT MIX)
 
 version 11 aug 2024
+
+if you find this useful   LN:  donate@allesvoorbitcoin.be 
